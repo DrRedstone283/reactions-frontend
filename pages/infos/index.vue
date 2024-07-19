@@ -1,0 +1,3 @@
+<template>
+    <InfoListings></InfoListings>    
+</template>

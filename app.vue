@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <NuxtLayout>
+      <v-app>
+        <Navbar></Navbar>
+        <NuxtPage></NuxtPage>
+      </v-app>
+    </NuxtLayout>
+  </div>
+</template>
